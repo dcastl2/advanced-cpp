@@ -1,0 +1,47 @@
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Required
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" REQUIRED. This makes vim invoke Latex-Suite when you open a tex file.
+filetype plugin on
+
+
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" My options
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+" Coloration
+syntax on
+
+" Insert mode abbreviations
+" fitn means "for i to n"
+ab iio   #include <iostream>
+ab uns   using namespace std;
+ab fitn  for (i=0; i<=n; i++)
+ab co    std::cout << 
+ab ci    std::cin  >> 
+
+
+" Documentation of file
+iab fidoc /**
+\<CR> @file
+\<CR>@author  Dennis Castleberry <dcastl2@lsu.edu>
+\<CR>@section Description 
+\<CR> 
+\<CR>/<Up>
+
+" Documentation of function
+iab fudoc /**
+\<CR> 
+\<CR>@param   
+\<CR>@return  
+\<CR>/<Up><Up><Up>
+
+
+" Tab/space/numbering options
+set number
+set expandtab
+set tabstop=2
+set shiftwidth=2
+set autoindent
+
