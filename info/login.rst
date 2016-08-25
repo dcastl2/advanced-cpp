@@ -43,7 +43,7 @@ To log in to the server from a Windows machine with PuTTY:
 
 4. When it asks you to continue, say yes.
 
-5. When it prompts for a login, enter your login ID (cs1254xx).
+5. When it prompts for a login, enter your login ID (your PAWS ID).
 
 6. Finally, enter your password to login. Note that your password will not be
    visible to you as you type it.  Be sure to distinguish among lookalike
