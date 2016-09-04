@@ -17,9 +17,9 @@ points if you submit the assignment N<=4 days in advance of the due date
      lazy!).  Call this ``color-comic.cpp``.
 
      a. Complex frame animations.
-         [+2] You may add yet six more distinct frames to it to make it an
-         eight-frame animation that repeats on loop infinitely.  Call this
-         ``color-book.cpp``.
+         [+2] Additional points if add yet six more distinct frames to it to
+         make it an eight-frame animation that repeats on loop infinitely.
+         In that case, call it ``color-book.cpp`` instead.
 
 3. Colorized typed-out text.
      [+2] Examine, compile and run the code ``color-cat.cpp``, which accepts a
