@@ -16,10 +16,10 @@ points if you submit the assignment N<=4 days in advance of the due date
      must be different textually and in color to warrant the points (don't be
      lazy!).  Call this ``color-comic.cpp``.
 
-       a. Complex frame animations.
-            [+2] You may add yet six more distinct frames to it to make it an
-            eight-frame animation that repeats on loop infinitely.  Call this
-            ``color-book.cpp``.
+     a. Complex frame animations.
+         [+2] You may add yet six more distinct frames to it to make it an
+         eight-frame animation that repeats on loop infinitely.  Call this
+         ``color-book.cpp``.
 
 3. Colorized typed-out text.
      [+2] Examine, compile and run the code ``color-cat.cpp``, which accepts a
@@ -28,12 +28,12 @@ points if you submit the assignment N<=4 days in advance of the due date
      color instead of concatenating it at once.  Use concepts from
      ``typeout.cpp``.  Call the new program ``color-typeout.cpp``.
 
-       a. Use it to type out colorized notes. 
-            [+2] If you have finished, summarize the notes in
-            ``code/alg/big-O.rst`` using color markers supported by your
-            implementation of ``color-typeout``. Use the color markers to
-            syntax-highlight the code, key terms, math, and important ideas.
-            Call the notes ``notes.txt``.
+     a. Use it to type out colorized notes. 
+         [+2] If you have finished, summarize the notes in
+         ``code/alg/big-O.rst`` using color markers supported by your
+         implementation of ``color-typeout``. Use the color markers to
+         syntax-highlight the code, key terms, math, and important ideas.
+         Call the notes ``notes.txt``.
 
 5. Colored digital clock.
      [+4] Examine, compile and run ``ascii-font.cpp`` for an example of how to
