@@ -26,7 +26,7 @@ How to join a chat room in IRC:
   1. If you are logged in to ``steam.cct.lsu.edu``, you may type ``irc`` to
      open the command-line client to connect to the local IRC server.
 
-  2. Type ``/join #csc4103`` to join the CSC 4103 chat room.
+  2. Type ``/join #csc1254`` to join the CSC 4103 chat room.
 
   3. You may type in text to chat with your classmates.
 
