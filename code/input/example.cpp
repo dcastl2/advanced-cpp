@@ -7,6 +7,7 @@
  * @param name  name of program
  */
 void usage(char *name) {
+  std::cerr << "You suck!" << std::endl;
   std::cerr << "usage: " << name << " name" << std::endl;
 }
 

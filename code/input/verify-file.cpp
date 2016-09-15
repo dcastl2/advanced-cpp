@@ -22,10 +22,6 @@ int main() {
   std::cout << "filename>  ";
   std::cin  >>  filename;
 
-  /**
-   * Attempt the division; if it fails, print the error message thrown by the
-   * function.
-   */
   try {
     print(filename);
   } catch (const char *e) {

@@ -15,5 +15,6 @@ unsigned int sum(unsigned int n) {
  */
 int main() {
   std::cout << "Sum of numbers 1 to 92681 is:  " << sum(92682) << std::endl;
+  std::cout << "INT_MAX is:                   "  << INT_MAX    << std::endl;
   std::cout << "INT_MAX + 1 is:               "  << INT_MAX+1  << std::endl;
 }

@@ -1,12 +1,12 @@
 
 * ``input.rst`` contains notes on input and verification.
 
-* ``assert.cpp`` shows a C-style assertion.
-
-* ``example.cpp`` shows an example usage of command-line arguments.
+* ``overflow.cpp`` demonstrates the dangers of overflow. 
 
 * ``command-line-arguments.cpp`` shows how to take arguments
   in via the command line.
+
+* ``example.cpp`` shows an example usage of command-line arguments.
 
 * ``filename-arguments.cpp`` shows how filenames may be taken as
   arguments, and utilized. 
@@ -14,7 +14,7 @@
 * ``integer-arguments.cpp`` shows how to take in arguments and convert
   them to numbers. 
 
-* ``overflow.cpp`` demonstrates the dangers of overflow. 
+* ``assert.cpp`` shows a C-style assertion.
 
 * ``try-catch.cpp`` illustrates try/catch exception handling in C++.
 

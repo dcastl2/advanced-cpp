@@ -24,7 +24,7 @@ int main(int argc, char **argv) {
     exit(EXIT_FAILURE);
   }
   std::ifstream infile(argv[1]);
-  if (infile.good()) std::cerr << "The file could be opened!"    << std::endl;
+  if (infile.good()) std::cout << "The file could be opened!"    << std::endl;
   else               std::cerr << "The file couldn't be opened!" << std::endl;
 }
 

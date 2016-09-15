@@ -1,0 +1,44 @@
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+We can include in-line math by surrounding it with the dollar-sign (\$).  For
+example, commutative addition may be expressed as $a+b=b+a$. We can express
+fractions using \texttt{frac}, as in $\frac{a}{b}$. Subscripts such as $a_b$
+and superscripts like $a^b$ are possible; and subscript expressions $a_{n+1}$
+or $b^{n-1}$.
+
+Following is the equation for the sum of numbers from 1 to $n$:
+
+\begin{equation}
+  \displaystyle\sum_1^n i = \frac{n(n+1)}{2}.
+\end{equation}
+
+Following is the power rule for integration. If we place the equation in
+escaped brackets instead of the \texttt{equation} environment, it does not
+number the equation:
+
+\[
+  \int x^r dx = \frac{x^{r+1}}{r+1} + C.
+\]
+
+Power rule for differentiation, in-line: $\frac{d}{dx} x^r dx = rx^{r-1}$.
+Also, there is a verbatim environment that we can use for code:
+
+\begin{verbatim}
+#include <iostream>
+
+int sum(int n) {
+  return n*(n+1)/2;
+}
+
+int main() {
+  std::cout << sum(100) << std::endl;
+}
+\end{verbatim}
+
+In addition, we can use the Greek alphabet: $\alpha$, $\beta$, $\theta$,
+$\Sigma$, $\Pi$, etc. can easily be referred to by name. 
+
+\end{document}
