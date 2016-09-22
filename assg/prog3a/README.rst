@@ -3,7 +3,7 @@ Homework 3
 
 Select up to 64 points worth of problems.  You may earn +N extra credit points
 if you submit the assignment N<=8 days in advance of the due date (Sunday,
-09/25/16 at 6:00 PM).
+10/02/16 at 6:00 PM).
 
 I will award stickers for exceptional work, including: colorized output,
 progress bars, well-formatted code, clever solutions, etc.
