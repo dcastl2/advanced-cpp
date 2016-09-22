@@ -21,15 +21,15 @@ progress bars, well-formatted code, clever solutions, etc.
      eventual crash.  Write a malloc bomb, but do not execute it on my server
      [-64]!  Call it ``malloc-bomb.cpp``. 
 
-       a. Cleaning out memory.
-         [8] Additional points if you use calloc instead and allocate for 4K
-         pages at a time, and only flood the physical memory available on the
-         system (you will need to use ``sysconf`` to determine this). In this
-         case, the program becomes beneficial, as it can be used to clean out
-         unused memory.  You must save the pointers returned by ``calloc`` so
-         as to free them before exiting; for this you need to use a
-         double-pointer, and use ``realloc`` to expand its size as needed.  In
-         this case call the program ``clean-out.cpp``.
+     a. Cleaning out memory.
+        [8] Additional points if you use calloc instead and allocate for 4K
+        pages at a time, and only flood the physical memory available on the
+        system (you will need to use ``sysconf`` to determine this). In this
+        case, the program becomes beneficial, as it can be used to clean out
+        unused memory.  You must save the pointers returned by ``calloc`` so
+        as to free them before exiting; for this you need to use a
+        double-pointer, and use ``realloc`` to expand its size as needed.  In
+        this case call the program ``clean-out.cpp``.
 
 
 3. Asciimation.
