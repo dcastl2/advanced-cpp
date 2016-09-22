@@ -27,9 +27,8 @@ progress bars, well-formatted code, clever solutions, etc.
             the system (you will need to use ``sysconf`` to determine this). In
             this case, the program becomes beneficial, as it can be used to
             clean out unused memory.  You must save the pointers returned by
-            ``calloc`` so as to free them before exiting; for this you need to
-            use a double-pointer, and use ``realloc`` to expand its size as
-            needed.  In this case call the program ``clean-out.cpp``.
+            ``calloc`` so as to free them before exiting. In this case call the
+            program ``clean-out.cpp``.
 
 
 3. Asciimation.
