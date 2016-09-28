@@ -7,6 +7,7 @@ the due date (Sunday, 09/18/16 at 6:00 PM).
 
 Binaries to come.
 
+
 1. Improved sleep.
      [16] Write a program which accepts a floating-point number as a
      command-line argument, then delays for that number of seconds (use the
@@ -17,12 +18,14 @@ Binaries to come.
      correct (it can only be non-negative integer or float). Be sure that when
      you call the program to distinguish it from the system program ``sleep``.
 
+
 2. Quick dictionary.
      [16] Write a program which accepts a term as a command-line argument.  The
      program should scan the provided file ``dictionary.dat`` for the term,
      then print the definition to ``stdout``. If the term does not exist in the
      dictionary, then it should print a message which says "Term not found."
      Call this ``define.cpp``.
+
 
 3. File encryption.
      [32] Write a program which accepts a filename as a command-line argument.
@@ -33,16 +36,18 @@ Binaries to come.
      ``.enc`` extension.  If it was already encrypted, it should decrypt the
      file and remove the ``.enc`` extension.  Call the program ``encrypt.cpp``.
 
+
 4. Time/date library.
      [16] Create a library, complete with source file ``clock.cpp`` [4], header
      ``clock.h`` [4], makefile ``Makefile`` [4], and a main code ``main.cpp``
-     [4]. The library should contain functions ``void clock::time()`` and
-     ``void clock::date()``, which print the time and date, respectively. 
+     [4]. The library should contain functions ``void clk::time()`` and ``void
+     clk::date()``, which print the time and date, respectively. 
 
        b. An interpreter for this library.
             [16] Create an interpreter which can accept commands ``time``
             and ``date``, and print out the time and date using calls to your
             library functions.
+
 
 5. Note-taking library.
      [16] Create a library, complete with source file ``note.cpp`` [4], header
@@ -67,4 +72,5 @@ Binaries to come.
             [16] Create an interpreter which can accept commands ``write`` and
             ``read``, and print out the write and read using calls to your
             library functions.
+
 
