@@ -34,7 +34,7 @@ progress bars, well-formatted code, clever solutions, etc.
 3. Asciimation.
      [16] If you still haven't done ``asciimation.cpp``, you may do it now for
      one-quarter of the original credit.  It will be graded according to the
-     same specification, and the total will be cut by four.  This is your last
+     same specification, and the total will be cut by half.  This is your last
      chance to do this problem for credit.
 
 
