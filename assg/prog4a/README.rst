@@ -34,6 +34,7 @@ if you submit the assignment N<=8 days in advance of the due date (Sunday,
             class fields as well.
 
 
+
 2. Video game characters.
      [16] Create a class for a character in a video game, called ``Character``.
      It should have at least two fields, two accessors, two mutators, and a
@@ -75,11 +76,11 @@ if you submit the assignment N<=8 days in advance of the due date (Sunday,
      [16] Create a class ``Vector`` with floating-point fields ``x``, ``y``,
      and ``z``, with accessors, mutators, and constructors for these.  Also
      create methods 
-     
+
      * ``Vector Vector::add(Vector u)`` 
      * ``float  Vector::dot(Vector u)`` 
      * ``Vector Vector::cross(Vector u)`` 
-     
+
      Create a header ``vector.h`` and source ``vector.cpp``.  Demonstrate the
      functions in the file ``vector-ops.cpp``.
 
@@ -99,7 +100,7 @@ if you submit the assignment N<=8 days in advance of the due date (Sunday,
 
        b. Make it generic and overload operators.
            [16] Additional points if you make the class generic.
-           
+
            Also, instead of defining ``add``, overload the ``+`` operator;
            instead of ``dot``, overload ``*``; and instead of ``cross``,
            overload ``&``.  Demonstrate these as well in ``vector-ops.cpp``.
