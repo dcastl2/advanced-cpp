@@ -76,9 +76,9 @@ if you submit the assignment N<=8 days in advance of the due date (Sunday,
      and ``z``, with accessors, mutators, and constructors for these.  Also
      create methods 
      
-       * ``Vector Vector::add(Vector u)`` 
-       * ``float  Vector::dot(Vector u)`` 
-       * ``Vector Vector::cross(Vector u)`` 
+     * ``Vector Vector::add(Vector u)`` 
+     * ``float  Vector::dot(Vector u)`` 
+     * ``Vector Vector::cross(Vector u)`` 
      
      Create a header ``vector.h`` and source ``vector.cpp``.  Demonstrate the
      functions in the file ``vector-ops.cpp``.
@@ -86,10 +86,10 @@ if you submit the assignment N<=8 days in advance of the due date (Sunday,
        a. Translations to and from polar coordinates.
            [16] Additional points if the following methods are implemented:
 
-             * ``float  Vector::radius()`` 
-             * ``float  Vector::theta()`` 
-             * ``float  Vector::phi()`` 
-             * ``Vector Vector::Vector(float radius, float phi, float rho)`` 
+           * ``float  Vector::radius()`` 
+           * ``float  Vector::theta()`` 
+           * ``float  Vector::phi()`` 
+           * ``Vector Vector::Vector(float radius, float phi, float rho)`` 
 
            That is, the methods ``radius``, ``theta``, and ``phi`` should give
            the magnitude ``radius`` the polar angle ``theta``, and the
@@ -111,12 +111,12 @@ if you submit the assignment N<=8 days in advance of the due date (Sunday,
      MATH 2090.  Create a class ``Matrix`` with floating-point fields ``int
      **A``, ``int n``, and ``int m``.  Create the constructor:
 
-       * ``Matrix::Matrix(int **A, int n, int m)`` 
+     * ``Matrix::Matrix(int **A, int n, int m)`` 
 
      as well as the methods
 
-       * ``Matrix Matrix::add(Matrix B)``
-       * ``Matrix Matrix::mul(Matrix B)``
+     * ``Matrix Matrix::add(Matrix B)``
+     * ``Matrix Matrix::mul(Matrix B)``
 
      which can perform addition and multiplication of matrices. Call the header
      ``matrix.h`` and the source ``matrix.cpp``, and the demonstration file
@@ -125,8 +125,8 @@ if you submit the assignment N<=8 days in advance of the due date (Sunday,
        a. Transposition, reflection.
             [16] Additional points if you define functions: 
 
-              * ``Matrix Matrix::transpose(Matrix B)``
-              * ``Matrix Matrix::reflect(Matrix B)``
+            * ``Matrix Matrix::transpose(Matrix B)``
+            * ``Matrix Matrix::reflect(Matrix B)``
 
             which obtain the transpose and reflection of a matrix.
 
