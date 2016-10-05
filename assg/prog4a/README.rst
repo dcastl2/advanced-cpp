@@ -81,6 +81,7 @@ if you submit the assignment N<=8 days in advance of the due date (Sunday,
      * ``float  Vector::dot(Vector u)`` 
      * ``Vector Vector::cross(Vector u)`` 
 
+
      Create a header ``vector.h`` and source ``vector.cpp``.  Demonstrate the
      functions in the file ``vector-ops.cpp``.
 
