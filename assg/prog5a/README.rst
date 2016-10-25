@@ -56,7 +56,7 @@ that I can grade it easily.
 
 
 7. Copy of a stack.
-     [16]  Write a function ``Stack copy(Stack s)`` which returns 
+     [16]  Write a function ``Stack *copy(Stack *s)`` which returns 
      the reverse of a stack.
 
 
