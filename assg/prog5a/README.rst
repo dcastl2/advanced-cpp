@@ -28,7 +28,7 @@ that I can grade it easily.
 
 
 2. Left-rotation of a linked list.
-     [16]  Write a method ``Node *Node::rRotate()`` which left-rotates
+     [16]  Write a method ``Node *Node::lRotate()`` which left-rotates
      a list (the head node is moved to the tail).
 
 
@@ -52,7 +52,7 @@ that I can grade it easily.
 
 6. Down-rotation of a stack.
      [16]  Write a function ``Stack downRotate(Stack s)`` which returns 
-     the up-rotation of a stack (the top node is moved to the bottom).
+     the down-rotation of a stack (the top node is moved to the bottom).
 
 
 7. Copy of a stack.
