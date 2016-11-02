@@ -3,7 +3,7 @@ Homework 6
 
 Select up to 64 points worth of problems.  You may earn +N extra credit points
 if you submit the assignment N<=8 days in advance of the due date (Sunday,
-10/30/16 at 6:00 PM).
+11/13/16 at 6:00 PM).
 
 
 1. Reversal of a queue.
