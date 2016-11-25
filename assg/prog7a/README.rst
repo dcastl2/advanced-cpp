@@ -38,7 +38,7 @@ if you submit the assignment N<=8 days in advance of the due date (Sunday,
      in a file ``bitwise.c`` the functions:
 
        * ``int pow2(int n)``: returns 2^n.
-       * ``int mul2(int n)``: returns 2/n.
+       * ``int mul2(int n)``: returns n/2.
        * ``int div2(int n)``: returns 2*n.
        * ``bool odd(int n)``: returns 1 if odd, 0 otherwise.
 
