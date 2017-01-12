@@ -18,8 +18,8 @@ Grade Breakdown
 
 ::
 
-  Prelim         1   x   64   =    32     (06.25%)
-  Homeworks      5   x   64   =   320     (31.25%)
+  Prelim         1   x   64   =    64     (06.25%)
+  Homeworks      5   x   64   =   320     (31.25%)  (drop 1)
   Tests          2   x  160   =   320     (31.25%)
   Final          1   x  256   =   256     (25%)
    
@@ -28,12 +28,12 @@ Grade Breakdown
 
 You have a preliminary exam on Thursday, Jaunary 19.  The preliminary exam
 covers everything in the ``info/`` folder of this repository, and the practice
-homework will acquaint you with the server.  Combined, they are worth 6.25% of
-your final grade.  
+homework will acquaint you with the server.  
 
-Note that these are due before the first drop date.  Their purpose is to make
-sure you are set with logistics before you commit to the course.  If you score
-unsatisfactorily, you may want to take the course at another time.
+Note that this test is given and graded before the first drop date.  Its
+purpose is to make sure you are set with the prereqs before you commit to the
+course.  If you score unsatisfactorily, you may want to take the course at
+another time.
 
 
 
