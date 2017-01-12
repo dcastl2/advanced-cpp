@@ -18,8 +18,7 @@ Grade Breakdown
 
 ::
 
-  Practice       1   x   32   =    32     (03.125%)
-  Prelim         1   x   32   =    32     (03.125%)
+  Prelim         1   x   64   =    32     (06.25%)
   Homeworks      5   x   64   =   320     (31.25%)
   Tests          2   x  160   =   320     (31.25%)
   Final          1   x  256   =   256     (25%)
@@ -27,9 +26,8 @@ Grade Breakdown
   Total                       =  1024     (100%)
 
 
-You have a preliminary exam on Wednesday, February 18, and a practice
-assignment due on Sunday, February 15 at 6:00 PM.  The preliminary exam covers
-everything in the ``info/`` folder of this repository, and the practice
+You have a preliminary exam on Thursday, Jaunary 19.  The preliminary exam
+covers everything in the ``info/`` folder of this repository, and the practice
 homework will acquaint you with the server.  Combined, they are worth 6.25% of
 your final grade.  
 
