@@ -10,7 +10,7 @@ The following is a tentative calendar.
 | 01/08         |                           | Introduction                    |
 |               |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 01/15         | *Martin Luther King Day*  | Linux, **Prelim**               |
+| 01/15         | Review, Linux             | **Prelim**                      |
 |               |                           |                                 |
 +---------------+---------------------------+---------------------------------+
 | 01/22         | Algorithm Analysis        | Input and Verification          |
