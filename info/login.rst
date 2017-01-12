@@ -1,10 +1,18 @@
+Your credentials
+================
+
+Your initial username is your PAWS ID, and your initial password is your your
+LSU ID number.  You can change your password with the ``passwd`` command once
+you log in.
+
+
+
 To log in to the server from a Mac or Unix machine 
 ==================================================
 
 1. From the Finder application, open the Utilities folder and select Terminal;
    or, use the Spotlight search with the Space and type ``Terminal`` to open 
    the terminal. 
-
 
 2. In Terminal, type: ``ssh -p2525 username@steam.cct.lsu.edu``.  Note that you
    do not type literally 'username', but rather your login ID to the server.
@@ -20,16 +28,6 @@ To log in to the server from a Mac or Unix machine
 5. You should now be logged in.
 
 
-A note about PuTTY
-==================
-
-The use of PuTTY as an SSH client for Windows users is a tradition in our
-department.  Most of you will have used PuTTY.  There are alternatives to PuTTY
-which you are free to use.  If you have a preferred SSH client, use it instead.
-If you have the option and the technical know-how, I recommend using ssh under
-Powershell.  A Linux Live CD is also an option if you want the features of
-Linux ssh, but don't want to commit to installing Linux to your hard drive.
-
 
 To log in to the server from a Windows machine with PuTTY:
 ==========================================================
@@ -43,7 +41,7 @@ To log in to the server from a Windows machine with PuTTY:
 
 4. When it asks you to continue, say yes.
 
-5. When it prompts for a login, enter your login ID (your PAWS ID).
+5. When it prompts for a login, enter your login ID.
 
 6. Finally, enter your password to login. Note that your password will not be
    visible to you as you type it.  Be sure to distinguish among lookalike
@@ -51,3 +49,15 @@ To log in to the server from a Windows machine with PuTTY:
    the symbol letter 't', dashes and underscores, etc.
 
 7. You should now be logged in and able to use the system.
+
+
+
+A note about PuTTY
+==================
+
+The use of PuTTY as an SSH client for Windows users is a tradition in our
+department.  Most of you will have used PuTTY.  There are alternatives to PuTTY
+which you are free to use.  If you have a preferred SSH client, use it instead.
+A Linux Live CD is also an option if you want the features of Linux ssh, but
+don't want to commit to installing Linux to your hard drive.
+

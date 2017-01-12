@@ -26,12 +26,16 @@ this assignment must be at most 60 lines long and at most 80 columns wide"); in
 this case the constraint is applied to each problem. Such constraints will be
 stated at the beginning of an assignment specification.
 
+
+
 Homework
 --------
 
-By default, a solution code earns **no credit** if: the code does not compile,
-the code is submitted past deadline, the code does not answer the question, or
-the file is not named correctly (even if off by one character).
+By default, a solution code earns **no credit** if: the code does not compile
+using the tools present *on the server*, the code is submitted past deadline,
+the code does not answer the question, or the file is not named correctly (even
+if off by one character).  
+
 
 A solution code, or an item of the solution code,  earns **half credit** if:
 the code has a logical or run-time error, the code does not meet problem
@@ -43,6 +47,21 @@ course), the total assignment will earn no credit, and a referral will be
 processed with Student Advocacy & Accountability.
 
 If you are in doubt what a solution code would earn, you are free to ask.
+
+
+Deadlines
+~~~~~~~~~
+
+Deadlines are strict.  The deadline for all homework assignments is 6:00:00.000
+PM on Sunday.  If the homework is even a millisecond late, it will receive a
+zero, even if it is perfect.  
+
+Note that I stop answering e-mail well before the homework deadline, which
+means that you are left to your own devices after 4:00 PM on Thursday.  Knowing
+this, you are expected to take the necessary precautions to ensure your
+success.
+
+
 
 Worksheets and Tests
 --------------------
@@ -59,5 +78,42 @@ half-credit.
 
 
 
+Disputes
+--------
 
+You must settle grading disputes no more than one week after the assignment has
+been handed back.  If you wait longer than that, the grade will remain as-is in
+my gradebook, no matter how egregious the discrepancy is, or where the fault
+lies.
+
+Disputes should be made in writing, by e-mail; or they should be handled in my
+office.  They should not be made before, during, or after class, or after an
+assignment is handed back.
+
+Proof is required for a dispute to be considered.  You must cite either the
+rubric (to prove the problem was not graded according to the rubric) or the
+textbook (to prove your answer is correct).  You must give specific wording
+from the rubric or the textbook.
+
+
+
+Excuses
+-------
+
+I only take university-approved excuses for homework as per PS-22.  You need
+appropriate documentation: an obituary for a death in the immediate family, a
+doctor's note for illness, an affadavit for participating in a
+university-sanctioned event, or a subpoena for court-imposed legal obligations.
+I follow up on excuses to verify that they are legitimate.
+
+Immediate family includes: parents, siblings, children, spouses, aunts, uncles,
+cousins, and cohabitants.  If your name is not mentioned in the obituary
+("survived by..."), then you bear the burden of proving a familial
+relationship.  If a cohabitant has died, you must prove that person resided at
+your address at the time of death.
+
+I do not accept power outages or technological failures as valid excuses,
+unless they are caused by region-wide severe weather events.  Last but not
+least--if you cannot prove it, *it did not happen*, even if it is a
+university-approved excuse!
 

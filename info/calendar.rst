@@ -1,63 +1,66 @@
-Calendar for CSC 1254, Sec. 1 (Computer Science with C++ II) Fall 2016
-======================================================================
+Calendar
+========
 
-The following is a tentative calendar. The course is divided into four parts,
-delineated by tests: Software Engineering, Object-Oriented Programming,
-Advanced Data Types, and Algorithmics.
+The following is a tentative calendar. 
 
 +---------------+---------------------------+---------------------------------+
-|     Week      |  Tuesday                  | Thursday                        |
+|     Week      |  Monday                   | Wednesday                       |
 |   (Sunday)    |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 08/21         | Introduction, Review      | Linux, SSH, Git, and vim        |
+| 01/08         |                           | Introduction                    |
 |               |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 08/28         | **Test 0**                | Code Analysis                   |
+| 01/15         | *Martin Luther King Day*  | Linux, **Prelim**               |
+|  ^prog0       |                           |                                 |
++---------------+---------------------------+---------------------------------+
+| 01/22         | Algorithm Analysis        | Input and Verification          |
 |               |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 09/04         | Input and Verification    | Libraries                       |
-|   ^prog1a     |                           |                                 |
+| 01/29         | Libraries                 | Regular Expressions             |
+|               |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 09/11         | Documentation and Regex   | Dynamic Memory                  |
-|   ^prog1b     |                           |                                 |
+| 02/05         | Dynamic Memory            | Debugging                       |
+|  ^prog1       |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 09/18         | Practice                  | **Test 1**                      |
-|   ^prog2a     |                           |                                 |
+| 02/12         | Recursion                 | **Test 1**                      |
+|               |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 09/25         | Object-Oriented Prog.     | Inheritance                     |
-|   ^prog2b     |                           |                                 |
+| 02/19         | Classes                   | Classes                         |
+|               |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 10/02         | Polymorphism              | Fall Holiday                    |
-|   ^prog3a     |                           |                                 |
+| 02/26         | Inheritance               | Polymorphism                    |
+|  ^prog2       |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 10/09         | Practice                  | **Test 2**                      |
-|   ^prog3b     |                           |                                 |
+| 03/05         | Linked Lists              | Linked Lists                    |
+|               |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 10/16         | Linked Lists              | Stacks                          |
-|   ^prog4a     |                           |                                 |
+| 03/12         | Stacks                    | Stacks                          |
+|               |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 10/23         | Queues                    | Recursion                       |
-|   ^prog4b     |                           |                                 |
+| 03/19         | Queues                    | Queues                          |
+|  ^prog3       |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 10/30         | Trees                     | ADTs                            |
-|   ^prog5a     |                           |                                 |
+| 03/26         | Sets and Maps             | **Test 2**                      |
+|               |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 11/06         | Practice                  | **Test 3**                      |
-|   ^prog5b     |                           |                                 |
+| 04/02         | Trees                     | Trees                           |
+|               |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 11/13         | Recursion                 | Searching                       |
-|   ^prog6a     |                           |                                 |
+| 04/09         | *Spring Break*            | *Spring Break*                  |
+|  ^prog4       |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 11/20         | Sorting                   | Thanksgiving                    |
-|   ^prog6b     |                           |                                 |
+| 04/16         | Graphs                    | Graphs                          |
+|               |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 11/27         | Algorithmics              | Practice                        |
-|   ^prog7a     |                           |                                 |
+| 04/23         | Searching                 | Sorting                         |
+|               |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 12/04         |                           |                                 |
-|   ^prog7b     |                           |                                 |
+| 04/30         | ?                         | ?                               |
+|  ^prog5       |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-^ = due at 6:00 PM that day
+| 05/07         | Final Exam Week           | Final Exam Week                 |
+|               |                           |                                 |
++---------------+---------------------------+---------------------------------+
+^ = due at 6:00 PM that Sunday
 
-Final exam is Monday, Dec. 5th, from 10:00-Noon
-
+Final exam is...?

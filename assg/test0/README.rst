@@ -1,4 +1,4 @@
-For the preliminary exam, I will give 8 problems, each worth 8 points.  Unless
+For the preliminary exam, I will give 8 problems, each worth 4 points.  Unless
 otherwise specified, assume that a solution will receive half of the credit if
 it compiles, and half if it is logically correct.  Be wary of missing
 semicolons, parentheses, and braces.  Minor syntax errors cause the code not to
@@ -58,6 +58,5 @@ extrapolate beyond these problems to solve similar, albeit new ones.
 
 The solutions for these problems appear in the ``src/`` directory; but try
 them first on your own.
-
 
 
