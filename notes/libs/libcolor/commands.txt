@@ -1,0 +1,8 @@
+set alpha blue
+set digit red
+set punct green
+set arith yellow
+set other magenta
+
+typeout Hello, world!
+typeout If 2*x+3 = x+5, what is x?
