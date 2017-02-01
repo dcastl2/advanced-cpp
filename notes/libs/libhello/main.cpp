@@ -18,4 +18,6 @@
 int main() {
   hi::hello();
   hi::hello("class");
+  hi::hello("kitty");
+  hi::hello("Vietnam");
 }
