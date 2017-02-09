@@ -51,6 +51,9 @@ int main() {
     else if (cmd == "quit") {
       exit(1);
     }
+    else {
+      std::cout << "Command not recognized!";
+    }
     std::cout << std::endl << "> ";
   }
 
