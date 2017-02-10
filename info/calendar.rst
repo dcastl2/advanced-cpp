@@ -16,14 +16,14 @@ The following is a tentative calendar.
 | 01/22         | Algorithm Analysis        | Input and Verification          |
 |               |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 01/29         | Libraries                 | Regular Expressions             |
+| 01/29         | Libraries                 | Shell Scripting                 |
 |  ^prog1a      |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 02/05         | Dynamic Memory            | Debugging                       |
+| 02/05         | Cancellation              | Dynamic Memory                  |
 |  ^prog1b      |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 02/12         | Recursion                 | **Test 1**                      |
-|  ^prog2a      |                           |                                 |
+| 02/12         | Regular Expressions       | **Test 1**                      |
+|  ^prog2a      | Debugging                 |                                 |
 +---------------+---------------------------+---------------------------------+
 | 02/19         | Classes                   | Inheritance                     |
 |  ^prog2b      |                           |                                 |
