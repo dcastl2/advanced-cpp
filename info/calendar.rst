@@ -22,7 +22,7 @@ The following is a tentative calendar.
 | 02/05         | Cancellation              | Dynamic Memory                  |
 |  ^prog1b      |                           |                                 |
 +---------------+---------------------------+---------------------------------+
-| 02/12         | Regular Expressions       | **Test 1**                      |
+| 02/12         | Regex,                    | **Test 1**                      |
 |  ^prog2a      | Debugging                 |                                 |
 +---------------+---------------------------+---------------------------------+
 | 02/19         | Classes                   | Inheritance                     |
