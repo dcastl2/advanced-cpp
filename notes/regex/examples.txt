@@ -1,0 +1,8 @@
+#include <iostream> 
+
+int main() {
+  std::cout << "Castl";
+  std::cout << "Reedy";
+  std::cout << "Agraw";
+  std::cout << "Champ";
+}
