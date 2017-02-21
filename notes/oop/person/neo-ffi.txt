@@ -1,0 +1,58 @@
+Circle the number which indicates the extent to which you agree with the
+statement (1: strongly disagree; 2: disagree; 3: neutral; 4: agree; 5: strongly
+agree). Please answer honestly.
+
+I see myself as someone who:
+
+
+  is reserved                        1        2        3        4        5
+
+  is generally trusting              1        2        3        4        5
+
+  tends to be lazy                   1        2        3        4        5
+
+  is relaxed, handles stress well    1        2        3        4        5
+
+  has few artistic interests         1        2        3        4        5
+
+  is outgoing, sociable              1        2        3        4        5
+
+  tends to find fault with others    1        2        3        4        5
+
+  does a thorough job                1        2        3        4        5
+
+  gets nervous easily                1        2        3        4        5
+
+  has an active imagination          1        2        3        4        5
+
+
+
+
+Picture an ideal friend. Then circle the number which indicates the extent to
+which you agree with the statement (1: strongly disagree; 2: disagree; 3:
+neutral; 4: agree; 5: strongly agree). Please answer honestly.
+
+I see the ideal friend as someone who:
+
+
+  is reserved                        1        2        3        4        5
+
+  is generally trusting              1        2        3        4        5
+
+  tends to be lazy                   1        2        3        4        5
+
+  is relaxed, handles stress well    1        2        3        4        5
+
+  has few artistic interests         1        2        3        4        5
+
+  is outgoing, sociable              1        2        3        4        5
+
+  tends to find fault with others    1        2        3        4        5
+
+  does a thorough job                1        2        3        4        5
+
+  gets nervous easily                1        2        3        4        5
+
+  has an active imagination          1        2        3        4        5
+
+
