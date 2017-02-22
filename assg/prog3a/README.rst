@@ -1,7 +1,8 @@
 Homework 3
 ==========
 
-Select up to 64 points worth of problems.  
+Select up to 64 points worth of problems.  **Note**: you must provide a
+``Makefile`` and a ``run.sh`` script for this assignment [-64].
 
 
 1. Your very own pointer puzzle.
