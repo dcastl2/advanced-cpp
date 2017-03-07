@@ -110,8 +110,8 @@ submission.
                 otherwise make it possible for the game to be played
                 indefinitely.  Call this ``mygame.cpp``.
 
-            If you complete this, you will get a feeling for what it is like to
-            be a video game programmer!
+                If you complete this, you will get a feeling for what it is
+                like to be a video game programmer!
 
 
 4. A vector class.
