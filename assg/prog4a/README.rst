@@ -87,27 +87,28 @@ submission.
      the player character's updated position.
      
        a. More complex maps.
-         [16] Create a ``Treasure`` class and files ``treasure.h`` and
-         ``treasure.cpp``.  Then modify ``Tile`` so that each ``Tile`` object
-         has-a ``Treasure`` object, which may be ``NULL`` if no treasure is at
-         that tile.  Also modify ``Character`` such that it in turn has-a
-         ``Treasure`` array (call it ``inventory`` or so).  
-         
-         Add support for a command ``search``, which should search for treasure
-         at the tile the player is standing on.  If there is treasure, it
-         should be added to the player's inventory and removed from that tile.
-     
+           [16] Create a ``Treasure`` class and files ``treasure.h`` and
+           ``treasure.cpp``.  Then modify ``Tile`` so that each ``Tile`` object
+           has-a ``Treasure`` object, which may be ``NULL`` if no treasure is at
+           that tile.  Also modify ``Character`` such that it in turn has-a
+           ``Treasure`` array (call it ``inventory`` or so).  
+           
+           Add support for a command ``search``, which should search for
+           treasure at the tile the player is standing on.  If there is
+           treasure, it should be added to the player's inventory and removed
+           from that tile.
+       
 
-         i. A bi-modal game.
-            [32] If you already completed #2 of this homework in its entirety
-            for Homework 3, you may integrate your solution for it into this
-            map world.  Your game should thus have two modes: an overworld and
-            a battle mode.  The overworld should randomly trigger battles when
-            your character moves across tiles.
+           i. A bi-modal game.
+                [32] If you already completed #2 of this homework in its
+                entirety for Homework 3, you may integrate your solution for it
+                into this map world.  Your game should thus have two modes: an
+                overworld and a battle mode.  The overworld should randomly
+                trigger battles when your character moves across tiles.
 
-            Add an experience system so your character gains levels, and
-            otherwise make it possible for the game to be played indefinitely.
-            Call this ``mygame.cpp``.
+                Add an experience system so your character gains levels, and
+                otherwise make it possible for the game to be played
+                indefinitely.  Call this ``mygame.cpp``.
 
             If you complete this, you will get a feeling for what it is like to
             be a video game programmer!
