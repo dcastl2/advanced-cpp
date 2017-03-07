@@ -1,8 +1,7 @@
 Homework 4
 ==========
 
-Select up to 64 points worth of problems.  You may earn +N extra credit points
-if you submit the assignment N<=8 days in advance of the due date.
+Select up to 64 points worth of problems. 
 
 **NOTE**: you must provide a Makefile [-64] and a run.sh script [-64] with this
 submission.
