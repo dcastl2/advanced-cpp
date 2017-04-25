@@ -1,0 +1,17 @@
+1. What is recursion?  What is a base case and a recursive case?
+   What is infinite recursion and how does it relate to the base
+   case of a recursive code?
+ 
+2. (a) Give one unique application of recursion.  (b) How do the
+   space and time complexities of a recursive code compare to that
+    of an iterative code?  (c)  What is the function stack?
+
+3. Write the recursive function ``int digital(int n)`` to calculate
+   the digital sum of n. The digital sum of an integer is the sum
+   of its digits, recursively applied until a single-digit result
+   is reached.  E.g. the first-level digital sum of 1236 is 
+   1+2+3+6 which is 12, then the second-level digital sum is 1+2=3,
+   so the final result is 3.
+
+ 4. Write the recursive function ``float golden(int n)``, which
+    calculates the golden ratio to n iterations. 

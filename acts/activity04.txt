@@ -1,0 +1,67 @@
+1.  Answer the following:  (a) What are two universal, invariant rules of
+    documentation and style?  Explain why these are necessary.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.  Write a code that calculates ``float sqrt(float n)``, without invoking
+    the sqrt function from math. It should be accurate within 1e-2, such that
+    if your answer is x, then abs(n-x*x) < 1e-2.
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.  Write a full header, library source, Makefile, and demonstration code for
+    the functions ``int mth::sum(int n)`` and ``int mth::factorial(int n)``.
+    Implement the most efficient versions of these functions.

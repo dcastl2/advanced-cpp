@@ -1,0 +1,95 @@
+1. Write the function ``Node *Node::rRotate(int k)``, which right-rotates a
+linked list by k elements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+2. Write the function ``void Stack::downRotate()`` to move the node on the
+bottom of a stack to the top.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Write the function ``Stack *Stack::reverse()`` to return a pointer to
+the reverse of a stack. It must not destroy the original.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Write the function ``void Stack::upRotate(int k)`` to up-rotate the stack
+by k elements.
+

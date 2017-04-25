@@ -1,0 +1,12 @@
+1. (a) How are list and stack structures defined?  (b) What are the 
+   essential features of a list and a stack?  (c) Give examples of 
+   things in the world that lists and stacks can be used to represent.
+   
+2. (a) What is a wrapper function?  (b) What about a wrapper class?  
+   (c) How does the notion of a has-a relationship play into wrapper classes?
+   
+3. Write the function ``void Stack::upRotate()`` to move the node on the top of
+   a stack to the bottom.
+
+4. Write the function ``Node *Node::lRotate(int k)``, which left-rotates a linked
+   list by k elements.

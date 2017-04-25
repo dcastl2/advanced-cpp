@@ -1,0 +1,95 @@
+1.  Answer the following. (a) What is the purpose of algorithm analysis? 
+    (b) Define big-O notation.  (c) What is time complexity?  (d) What is 
+    space complexity?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.  Write the code ``float euler()``, which should calculate Euler's number.
+    Euler's number is equal to the infinite sum of 1/n! for n=0 to infinity,
+    but it is sufficient to stop at n=50 for floating-point precision.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.  Write the code ``std::string trim(std::string s)`` to return the string s
+    trimmed of all whitespace, which includes spaces, tabs, and newlines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.  Write the code ``int digs(int n)`` to calculate the number of digits in the
+    integer n.  For example digs(2357) should return 4, since 2357 has 4 digits.
+    Account for the fact that 0 is single-digit, thus digs(0) should return 1.

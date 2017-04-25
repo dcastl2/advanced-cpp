@@ -1,0 +1,94 @@
+1. What is polymorphism? What are the three types of polymorphism? What
+   is it useful for?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Write a full C++ program which overloads the functions ``int sum(int n)`` 
+   and ``int sum(int a, int b)``. Your main function should demonstrate
+   the use of both of these.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Assuming that you have the following struct, write a function that overloads
+   the multiplication operator (*).
+   
+   struct imag {
+     int a;
+     int b;
+   };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Write a generic function ``int dot(T *a, T *b, int n)`` which calculates the
+   dot product of two arrays of any type.

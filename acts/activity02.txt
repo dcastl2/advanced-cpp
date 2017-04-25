@@ -1,0 +1,99 @@
+1.  Answer the following:  (a) What is a library?  (b)  What is the advantage
+    of modularizing code?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.  Write a code to accept an integer n as a command-line argument and output
+    n!.  If and only if n is not entered as a command-line argument, the user
+    should be prompted for it via stdin. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.  Write a full C++ program which accepts an integer as a command line
+    argument, verifies that it is positive, then outputs "true" if it is
+    prime, "false" otherwise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.  Write a function called ``int digital_sum(int n)`` which calculates
+    the digital sum of a number.  The digital sum of a number is the sum
+    of the digits; the process is re-applied until it yields a single-digit
+    number.  
+    
+    For example, one iteration of the digital sum of 2357 is 2+3+5+7 = 17.
+    Another iteration takes the digital sum of 17, which is 1+7 = 8.  Thus the
+    digital sum of 2357 is 8.

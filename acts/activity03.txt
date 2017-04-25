@@ -1,0 +1,94 @@
+1.  Answer the following:  (a) What is a library?  (b)  What is the advantage
+    of modularizing code?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.  What is output by the following code? 
+
+    (code)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.  Write a code to accept an integer n as a command-line argument and output
+    n!.  If and only if n is not entered as a command-line argument, the user
+    should be prompted for it via stdin. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.  Write a full C++ program which accepts an integer as a command line
+    argument, verifies that it is positive, then outputs "true" if it is
+    prime, "false" otherwise.

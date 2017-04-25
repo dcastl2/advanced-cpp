@@ -1,0 +1,94 @@
+1. What is a binary search tree?  Give an example of something in the
+   real world that the BST can be used to represent.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Write a recursive code ``int pow(int a, int n)`` to calculate
+   a^n recursively.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Write the recursive function ``int lucas(int n)`` to calculate
+   the nth Lucas number, which is defined by
+
+     l(0) = 2
+     l(n) = f(n-1) + f(n+1)
+
+   Write also recursive function ``int fib(int n)`` also, where 
+   f(0) = 0, f(1) = 1, and f(n) = f(n-1) + f(n-2).  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Write the function ``int TreeNode::sum()`` to sum the keys inside
+   a subtree of a BST. 

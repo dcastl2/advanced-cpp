@@ -1,0 +1,96 @@
+5. Write a recursive method ``int TreeNode::size()`` to calculate how many
+   TreeNodes are contained within.
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Write a recursive method ``int TreeNode::height()`` to calculate the 
+   height of the tree.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Write a recursive function ``int trace(int **A, int n)`` to calculate
+   the sum of the diagonal of an n-by-n matrix.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Write a recursive function ``void print(string s, int i)`` with
+   an overloaded wrapper function ``void print(string s)`` to print
+   the string s backwards.  To achieve this, you must print the
+   characters upon unwinding the stack.

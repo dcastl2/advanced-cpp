@@ -1,0 +1,97 @@
+1. Write a recursive method ``int Node::size()`` to calculate the size of
+   a linked list.
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Write a recursive method ``void Stack::drop()`` which removes the bottom 
+   node from the stack.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Write a recursive method ``void Queue::lRotate(int n)`` which left-rotates
+   a queue by n elements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Write recursive methods ``void Tree::reverse()`` and ``void 
+   TreeNode::reverse()`` which reverse a BST.  The reverse R of a binary
+   search tree called T is such that the in-order traversal of R is the 
+   reverse of the in-order traversal of T.
+   

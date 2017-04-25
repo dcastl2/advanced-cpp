@@ -1,0 +1,94 @@
+1. Answer the following:  (a) What is the purpose of verification?  (b) What
+   are the dangers of not verifying input?  Give two examples.  (c) What are
+   three means of input?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Consider the following code, which calculates the trace of a matrix. The
+trace of a matrix is the sum of its diagonal elements.  (a) What is the time
+complexity of the following code in big-O notation?  (b) Re-write the code to
+make it O(n) time complexity.
+
+
+   float trace(float **A, int n) {
+     float trace = 0;
+     for (int i=0; i<n; i++)
+       for (int j=0; j<n; j++)
+         if (i==j)
+           t += a[i][j];
+     return t;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Write the function ``int pow(int a, int n)`` to calculate a^n in log(n)
+time, assuming that n is a power of 2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Write the function ``void factor(int n)`` to print out the prime factors of
+n, in order.  If f is the number of factors, the code should run in no more
+than O(f+sqrt(n)) time complexity.
