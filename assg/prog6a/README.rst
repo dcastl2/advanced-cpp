@@ -45,6 +45,17 @@ that it can be graded easily.
      It is important to use recursion (the functions must not translate the
      tree to another data structure, or use any other cheap tricks).
 
+     ``n`` is a parameter you can use to pretty-print the tree, as depicted
+     below; if you do so, the grader will award you a couple of Fox stickers.
+
+     .. raw::
+
+                    7
+                 /     \
+                3      13
+              /  \    /  \
+             2    5  11  17
+
 
 5. Recursively creating a mirror image of a linked list.
      [16] Write a function ``void Node::mirrorImage()`` which appends the
