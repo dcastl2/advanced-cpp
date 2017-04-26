@@ -59,7 +59,7 @@ that it can be graded easily.
 
 
 7. Recursively checking if a queue is sorted.
-     [16] Write a method recursive method ``void isSorted(Queue *q)`` checks
+     [16] Write a method recursive method ``bool isSorted(Queue *q)`` checks
      if a queue is in sorted order.  Note that you cannot carry the size as
      a parameter.  You will need to ensure the queue maintains its integrity
      upon the function's return (while avoiding an infinite recursive cycle), 
