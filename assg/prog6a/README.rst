@@ -48,7 +48,7 @@ that it can be graded easily.
      ``n`` is a parameter you can use to pretty-print the tree, as depicted
      below; if you do so, the grader will award you a couple of Fox stickers.
 
-     .. raw::
+     ::
 
                     7
                  /     \
