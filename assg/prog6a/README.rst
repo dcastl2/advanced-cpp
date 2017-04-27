@@ -78,10 +78,10 @@ that it can be graded easily.
 
 
 8. Creating the map data structure.
-     [32] A **map** is a generic data structure with a key-value pair.  Thus
-     it has two fields: a key of type U, and a value of type V.  A map may
-     be implemented as a special type of linked list.  It may be declared as 
-     follows:
+     [32] A **map** is a generic data structure with a key-value pair.  Thus it
+     has at least two fields: a key of type U, and a value of type V.  A map
+     may be implemented as a special type of linked list, with a pointer to the
+     next entry in the map.  It may be declared as follows:
 
        map<string,int> magic_power;
 
