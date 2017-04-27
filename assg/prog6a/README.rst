@@ -90,6 +90,8 @@ that it can be graded easily.
      uses the overloaded [] operator.  Below is an example of the insertion
      of a key/value pair into the map:
 
+     ::
+
        magic_power.insert("Dog", 8);
        magic_power.insert("Cat", 12);
        magic_power.insert("Rabbit", 15);
