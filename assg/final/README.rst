@@ -47,7 +47,7 @@ Pointer Puzzles
 
 *  Give the output of the following code:
 
-   .. raw::
+   ::
 
 		int  a[6]  = {0, 1, 3, 7, 15, 0};
 		int *a_ptr = a;
@@ -57,7 +57,7 @@ Pointer Puzzles
 
 *  Give the output of the following code:
 
-   .. raw::
+   ::
 
 		int  a[5]     = {3, 2, 1, 0, 4};
 		int *a_ptr[5];
@@ -68,7 +68,7 @@ Pointer Puzzles
 
 *  Give the output of the following code:
 
-   .. raw::
+   ::
 
 		int  a[6]  = {0, 2, 3, 4, 5, 0};
 		int *a_ptr = a;
@@ -107,7 +107,7 @@ Polymorphism
 *  Assuming that you have the following struct, write a function that overloads
    the addition operator (+).
 
-   .. raw::
+   ::
    
      struct fraction {
        int numerator;
@@ -119,7 +119,7 @@ Polymorphism
    of a size-n polynomial expression.  coeffs[2] would be the coefficient for
    x^2, and coeffs[0] is the constant. 
 
-   .. raw::
+   ::
    
      struct polynomial {
        int *coeffs;
@@ -128,16 +128,16 @@ Polymorphism
 
    So for example in the following scenario:
 
-   .. raw::
+   ::
    
      coeffs[0] = 2;
      coeffs[1] = -3;
      coeffs[2] = 5;
      coeffs[3] = 7;
 
-  The following would be output by the stream insertion operator:
+   The following would be output by the stream insertion operator:
 
-   .. raw::
+   ::
 
      7x^3 + 5x^2 - 3x + 2
 
